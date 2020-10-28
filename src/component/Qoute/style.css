@@ -1,0 +1,59 @@
+p.center {
+    padding-right: 5rem;
+    width: 30rem;
+    height: 164px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+.container{
+   
+        position: relative;
+        top: 8rem;
+    
+}
+
+.svg2{
+    position: absolute;
+    right: 7rem;
+    bottom: 9rem;
+   
+}
+.logo{
+    position: relative;
+    top: 2rem;
+    left: 4rem;
+}
+/* quto Right in sign in */
+.rightSign .quto {
+    position: absolute;
+    top: -1rem;
+    left: 7.5rem;
+    color:"#ddd";
+} 
+.rightSign .person {
+    position: absolute;
+    left: 7rem;
+    bottom: -3rem;
+}
+/*****************/
+.body_signup .quto {
+    position: absolute;
+    top: 0rem;
+    left: 5rem;
+}
+.body_signup .person {
+    position: absolute;
+    color: #fff;
+    left: 5rem;
+    bottom: -2rem;
+}
+
+

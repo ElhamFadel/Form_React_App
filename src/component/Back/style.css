@@ -1,0 +1,14 @@
+.back {
+    position: absolute;
+    width: 5rem;
+    height: 2rem;
+    left: 700px;
+    top: 15px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    /* display: inline-block; */
+    display: flex;
+    color: #8692A6;
+    cursor: pointer;
+}

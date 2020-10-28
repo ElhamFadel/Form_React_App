@@ -1,0 +1,25 @@
+.checkbox{
+    display: flex;
+    width: 1;
+    color: #808691a6;
+    margin: 10px 0;
+    font-size: 13px;
+    line-height: 14px;
+   
+    color: #696F79;
+}
+
+input[type="checkbox"]{
+    width: 1rem;
+} 
+/* Right sign checkbox */
+ 
+.leftSign .checkbox {
+    display: flex;
+    color: #808691a6;
+    margin: 10px 0;
+    font-size: 13px;
+    line-height: 18px;
+    color: #696F79;
+}
+

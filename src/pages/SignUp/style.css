@@ -1,0 +1,30 @@
+
+.body_signup {
+    display: flex;
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+}
+.body_signup aside.leftSide {
+    width: 50%;
+}
+
+aside.leftSide .container{
+    width: 66%;
+    margin: 0 auto;
+    position: relative;
+    top: 4rem;
+}
+.para{
+    width: 320px;
+    height: 56px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    color: #8692A6;
+}
+

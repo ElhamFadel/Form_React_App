@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    display: grid;
+  grid-template-columns: auto auto;
+}
+.header_Form{
+    text-align: center;
+}
+
+p.paraQuestion {
+    text-align: center;
+    width: 87%;
+    line-height: 1.5rem;
+    margin-top: 1rem;
+    color: #696F79;
+}
+.header_Form p{
+    font-size: 15px;
+    line-height: 35px;
+    text-align: center;
+    color: #8692A6;
+    margin-bottom: .5rem;
+}
+.leftSign {
+    padding: 12% 30% 0 0%;
+    /* width: 413px; */
+}
+/*Right side in sign in */
+.rightSign{
+    position: relative;
+}
+.rightSign svg{
+    position: absolute;
+    top: 1rem;
+    left: 5rem;
+}
+.rightSign .container {
+    position: relative;
+    top: 12rem;
+}
+
+.rightSign p.center {
+    padding-right: 5rem;
+    width: 30rem;
+    height: 164px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    font-style: italic;
+    color: #FFFFFF;
+}
+
+.rightSign img {
+    width: 13rem;
+    position: absolute;
+    bottom: 0rem;
+    right: 6rem;
+}
+/* end */
+/* .quotation{
+    font-style: normal;
+    font-family: Gayathri, serif;
+    font-size: 75px;
+    font-weight: bold;
+    color: #BABABA;
+    position: absolute;
+    top:45px;
+    left:0;
+}‏ */
+   
